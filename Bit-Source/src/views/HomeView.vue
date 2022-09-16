@@ -3,5 +3,5 @@
 </script>
 
 <template>
-  <main></main>
+  <main>EYYYYYYYOOOO</main>
 </template>
